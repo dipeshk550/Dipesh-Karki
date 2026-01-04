@@ -14,18 +14,20 @@
 
 🛠️ My Skills
 👉 languages
+
 HTML   JavaScript   Typescript   
+
 👉 Framework and libraries
 
  React      Bootstrap    NPM   Tailwind   CSS3
+ 
 👉 Databases & Cloud Hosting
-MongoDB   vercel
+    MongoDB   vercel
        
 👉 Designing
   FIGMA  CANVA
  
 👉 Software & Tools
 
-
-git  github  postman
+git   github   postman
         
